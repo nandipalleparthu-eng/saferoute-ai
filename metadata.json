@@ -1,0 +1,5 @@
+{
+  "name": "BusSafe AI - Real-Time Safety Assessment",
+  "description": "An AI-powered safety monitoring system for public transit buses that analyzes sensor data (spatial clearance, motion dynamics) to predict accident risk levels and provide engineering justifications.",
+  "requestFramePermissions": []
+}
