@@ -1,0 +1,7 @@
+Predicted Risk: HIGH
+
+Explanation:
+Critical lateral proximity of 35 cm combined with a closing speed of 1.2 m/s
+results in an estimated time-to-collision of ~0.3 seconds. At 45 km/h,
+the available reaction and braking time is insufficient, making collision
+imminent without immediate intervention.
