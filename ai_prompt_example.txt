@@ -1,0 +1,12 @@
+You are an AI safety system for buses.
+
+Input:
+- Left distance: 35 cm
+- Right distance: 90 cm
+- Closing speed: 1.2 m/s
+- Vehicle speed: 45 km/h
+- Mode: traffic
+
+Task:
+1. Predict accident risk (LOW / MEDIUM / HIGH)
+2. Explain why
