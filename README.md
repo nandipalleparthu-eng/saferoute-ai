@@ -22,7 +22,7 @@ LOW, MEDIUM, or HIGH.
 - Ultrasonic Sensors (simulated)
 - Google AI Studio (Gemini 1.5 Flash)
 - GitHub
-
+  
 ## AI Integration
 Example AI prompt and output are included in the repository
 to demonstrate accident risk reasoning.
